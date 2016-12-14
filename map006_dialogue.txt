@@ -1,0 +1,3 @@
+640 64 You have beaten the game! CC is happy
+640 98 And CC is now out in the world spreading cancer
+640 120 Now try finding the exit :%)

@@ -1,0 +1,62 @@
+﻿Build started 4/20/2015 1:00:38 PM.
+     1>Project "C:\Dropbox\Dropbox\Pulcher_2015\Client\server-client\LD_31\LD_31\LD_31.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt LD_31.cpp
+         LD_31.cpp
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(65): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(297): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(308): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(358): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(359): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(360): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(380): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(381): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(382): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(394): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(395): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(467): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(468): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(490): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(491): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(533): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(540): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(583): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(584): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(585): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(607): warning C4101: 't' : unreferenced local variable
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(619): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(631): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(637): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(646): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(650): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(666): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(667): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(706): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(727): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(728): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(729): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(749): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(750): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(751): warning C4018: '>=' : signed/unsigned mismatch
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(778): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(778): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(782): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(783): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(786): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(787): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(805): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(817): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(818): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(949): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\dropbox\dropbox\pulcher_2015\client\server-client\ld_31\ld_31\ld_31.cpp(1006): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Dropbox\Dropbox\Pulcher_2015\Client\server-client\LD_31\Debug\LD_31.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" SDLmain.lib SDL.lib SDL_mixer.lib SDL_image.lib SDL_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Dropbox\Dropbox\Pulcher_2015\Client\server-client\LD_31\Debug\LD_31.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Dropbox\Dropbox\Pulcher_2015\Client\server-client\LD_31\Debug\LD_31.lib" /MACHINE:X86 Debug\Cigarette_Butt.obj
+         Debug\LD_31.obj
+         Debug\Source.obj
+         LD_31.vcxproj -> C:\Dropbox\Dropbox\Pulcher_2015\Client\server-client\LD_31\Debug\LD_31.exe
+     1>Done Building Project "C:\Dropbox\Dropbox\Pulcher_2015\Client\server-client\LD_31\LD_31\LD_31.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.32

@@ -1,0 +1,20 @@
+192 896 Welcome to the tutorial level! I am your narrator! Use this jump pad to jump! (duh!)
+1504 800 >>>>>>>>> A good challenge to accustomate yourself to da movement >>>>>>
+1900 928 Oh wait! I forgot to mention that a nearby testing
+1900 960 laboratory has had their delusional moonwalking smokers
+1900 992 break free, they will smoke you to death on contact!
+1900 1024 And by smoke you to death, I mean smoke your cigarette,
+1900 1056 you die if you can no longer smoke (it's 'cuz you have cancer)
+1820 88 Cig nodes let you push enemies, and at three, you can hop and wall climb
+1820 128 Control them with your mouse
+2468 376 This rotating thing will give you a cig node, if you were taller you would be able to grab them
+2468 408 Oh well, looks like you'll just have to climb up this building and jump off. You have cancer so you
+2468 440 can not die as long as you are smoking. Cig nodes are a form of cancer too, but you can control them
+1868 440 If you fall in this hole, be prepared to wall climb out of it! Hit R to restart.
+3300 850 You'll need three cig nodes to get up this wall
+4084 608 These cig node physics are shit! Who programmed this _unconvienent_ weapon?!
+4084 640 Oh well, with this fourth cig node, controlling it is much easier
+4992 448 These cig spinners emit constant cancer. And it's right next to this keyhole.
+5440 672 You'll also have to jump through this enemy (you can touch him, just
+5440 710 not his cig nodes, they give you cancer you know)
+200 200 aaa
